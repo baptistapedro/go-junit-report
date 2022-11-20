@@ -1,0 +1,5 @@
+project: go-junit-report
+target: go-junit-report
+cmds:
+  - cmd: /go-junit-report -in @@
+    env: {}
